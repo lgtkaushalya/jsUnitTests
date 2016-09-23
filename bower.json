@@ -1,0 +1,20 @@
+{
+  "name": "js_unit_testing",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Thilankawq <lgtkaushalya@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "karma": "^0.4.6"
+  }
+}
